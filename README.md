@@ -2,6 +2,12 @@
 First repo for trading data and analysis
 
 
-This another attempt at adding notes about myself.
-Let's see if this works out as I have 4 weeks left
-before I start my cohort.
+This space is for adding notes about my goal project.
+
+Christmas vacation.  Waiting to hear about PT or At Your Own Pace
+options for online work.
+
+Will review all the lessons I glossed over and do the labs I skipped
+
+
+
